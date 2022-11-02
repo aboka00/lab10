@@ -30,7 +30,7 @@ function main(lab1, lab2, lab3, lab45, lab6, lab8) {
     return obj;
 }
 
-let sums = [sum1, sum2, sum3, sum45, sum6];
+let sums = [sum1, sum2, sum3, sum45, sum6, sum8];
 
 let total_score = main(lab1, lab2, lab3, lab45, lab6, lab8) + quiz1;
 
